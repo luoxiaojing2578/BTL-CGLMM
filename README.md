@@ -11,7 +11,7 @@ The "regression-func.R" file contains the function code for compositional data g
 
 The "regression-sim.R" file contains the analysis code for our proposed method BTL-CGLMM and Adaptive BTL-CGLMM specifically designed for continuous response data.
 
-The "Regression_BTL_CGLMM.stan" file and the "Regression_Adaptive_BTL_CGLMM.stan" file provide the Stan implementations for our proposed method BTL-CGLMM and Adaptive BTL-CGLMM.
+The "Regression_BTL_CGLMM.stan" file and the "Regression_Adaptive_BTL_CGLMM.stan" file provide the Stan implementations for our proposed method BTL-CGLMM and Adaptive BTL-CGLMM, respectively.
 
 ### Binary
 In this directory, you will find four main files:
@@ -20,5 +20,5 @@ The "classification-func.R" file contains the function code for compositional da
 
 The "classification-sim.R" file contains the analysis code for our proposed method BTL-CGLMM and Adaptive BTL-CGLMM specifically designed for binary response data.
 
-The "Classification_BTL_CGLMM.stan" file and the "Classification_Adaptive_BTL_CGLMM.stan" file provide the Stan implementations for our proposed method BTL-CGLMM and Adaptive BTL-CGLMM.
+The "Classification_BTL_CGLMM.stan" file and the "Classification_Adaptive_BTL_CGLMM.stan" file provide the Stan implementations for our proposed method BTL-CGLMM and Adaptive BTL-CGLMM, respectively.
 
